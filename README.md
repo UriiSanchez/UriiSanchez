@@ -1,13 +1,11 @@
-<h1 align="center">Hola 👋, Yo soy Toño Sánchez</h1>
-<h3 align="center">Un apasionado desarrollador FullStack desde México 🇲🇽</h3>
+<h1 align="center">Hola 👋, Soy Toño Sánchez</h1>
+<h3 align="center">Un apasionado desarrollador FullStack al cual le gusta aprender como funcionan las cosas, también me apasiona la Astronomia y la Historia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uriisanchez&label=Profile%20views&color=0e75b6&style=flat" alt="uriisanchez" /> </p>
 
-- 🔭 Actualmente estoy trabajando en **CONSAR**
+- 🔭 Actualmente estoy trabajando en **Bahia 360** y me encuentro aprendiendo **React Native**
 
-- 🌱 Actualmente estoy aprendiendo **React Native**
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://devsanchez-89d3b.web.app/portafolio](https://devsanchez-89d3b.web.app/portafolio)
+- 👨‍💻 Si quieres saber más de mi te invito a que accedas a mi portafolio en [https://devsanchez-89d3b.web.app/portafolio](https://devsanchez-89d3b.web.app/portafolio)
 
 - 💬 Ask me about **React, JS y C#**
 
